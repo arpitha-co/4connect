@@ -39,7 +39,7 @@ ROI extraction preview
 Decision-state monitoring
 Robot action feedback
 <p align="center">
-<img src="images/interface" alt="interface" width="600"/>
+<img src="images/interface.png" alt="interface" width="600"/>
 </p>
 
 🎯 ROI Extraction & Vision Pipeline
@@ -53,7 +53,7 @@ Filters noise and irrelevant background
 Passes structured data to the decision engine
 This ensures efficient downstream processing and improved decision accuracy.
 <p align="center">
-<img src="images/roi" alt="roi" width="600"/>
+<img src="images/roi.png" alt="roi" width="600"/>
 </p>
 
 🦾 Robotic Manipulation (Niryo Ned / Ned2)
