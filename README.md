@@ -1,6 +1,6 @@
 🤖 AI-Driven Autonomous Robotic Manipulation System
 
-An end-to-end intelligent automation pipeline that combines AI-powered computer vision, autonomous decision-making, and real-time robotic control using a collaborative robotic arm from Niryo (Ned / Ned2).
+An end-to-end intelligent automation pipeline that combines AI-powered computer vision, autonomous decision-making, and real-time robotic control using a collaborative robotic arm from Niryo Ned2.
 <p align="center">
 <img src="images/robot.png" alt="robot" width="600"/>
 </p>
@@ -56,7 +56,7 @@ The perception module:
 <img src="images/roi.png" alt="roi" width="600"/>
 </p>
 
-🦾 Robotic Manipulation (Niryo Ned / Ned2)
+🦾 Robotic Manipulation (Niryo Ned2)
 
 The AI module is integrated in real time with the robotic arm:
 
