@@ -1,8 +1,7 @@
 🤖 AI-Driven Autonomous Robotic Manipulation System
 
 An end-to-end intelligent automation pipeline that combines AI-powered computer vision, autonomous decision-making, and real-time robotic control using a collaborative robotic arm from Niryo (Ned / Ned2).
-![Interface](images/robot.png)
-<img src="images/interface.png" alt="Interface" width="600"/>
+<img src="images/robot" alt="robot" width="600"/>
 
 📌 Project Overview
 
@@ -37,7 +36,7 @@ Bounding box overlays
 ROI extraction preview
 Decision-state monitoring
 Robot action feedback
-![Interface](images/interface.png)
+<img src="images/interface" alt="interface" width="600"/>
 
 
 🎯 ROI Extraction & Vision Pipeline
@@ -50,7 +49,8 @@ Applies preprocessing for robust classification
 Filters noise and irrelevant background
 Passes structured data to the decision engine
 This ensures efficient downstream processing and improved decision accuracy.
-![Interface](images/roi.png)
+
+<img src="images/roi" alt="roi" width="600"/>
 
 
 🦾 Robotic Manipulation (Niryo Ned / Ned2)
