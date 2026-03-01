@@ -122,3 +122,8 @@ A fully autonomous intelligent system that unifies:
 ## Contact
 
 If you'd like to collaborate or discuss the project, feel free to reach out.
+
+## Contributers
+
+- [Arpitha](https://github.com/arpitha-co) 
+- [Vamsi Ganesh](https://github.com/this-is-vamsi) 
