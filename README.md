@@ -2,7 +2,7 @@
 
 An end-to-end intelligent automation pipeline that combines AI-powered computer vision, autonomous decision-making, and real-time robotic control using a collaborative robotic arm from Niryo (Ned / Ned2).
 ![Interface](images/robot.png)
-
+<img src="images/interface.png" alt="Interface" width="600"/>
 
 📌 Project Overview
 
