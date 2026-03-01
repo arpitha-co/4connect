@@ -1,11 +1,11 @@
-🤖 AI-Driven Autonomous Robotic Manipulation System
+## AI-Driven Autonomous Robotic Manipulation System
 
 An end-to-end intelligent automation pipeline that combines AI-powered computer vision, autonomous decision-making, and real-time robotic control using a collaborative robotic arm from Niryo Ned2.
 <p align="center">
 <img src="images/robot.png" alt="robot" width="600"/>
 </p>
 
-📌 Project Overview
+## Project Overview
 
 In this project, I developed an AI-based computer vision pipeline capable of:
 
@@ -16,7 +16,7 @@ Controlling a robotic arm in real time for precise interaction
 
 The system analyzes the scene, processes visual data, makes independent decisions, and executes robotic manipulation — forming a seamless perception-to-action loop.
 
-🧠 System Architecture
+## System Architecture
 
 Perception → ROI Extraction → Classification → Decision Logic → Robot Control → Physical Interaction
 
@@ -28,7 +28,7 @@ This project integrates:
 - Real-time robot control
 - Full end-to-end pipeline from perception to manipulation
 
-🖥️ User Interface
+## User Interface
 
 The interface provides:
 
@@ -42,7 +42,7 @@ The interface provides:
 <img src="images/interface.png" alt="interface" width="600"/>
 </p>
 
-🎯 ROI Extraction & Vision Pipeline
+## ROI Extraction & Vision Pipeline
 
 The perception module:
 
@@ -56,7 +56,17 @@ The perception module:
 <img src="images/roi.png" alt="roi" width="600"/>
 </p>
 
-🦾 Robotic Manipulation (Niryo Ned2)
+## Decision Making 
+
+This project uses the **Min-Max algorithm** for decision making in the autonomous system.  
+
+- The AI perception module detects and classifies objects in the scene.  
+- The extracted ROIs are fed into the Min-Max algorithm for **strategic decision making**, determining the optimal action for the robotic arm.  
+- The chosen action is executed in real time by the Niryo Ned/Ned2 robotic arm.  
+
+This approach allows the system to make **autonomous, optimal decisions** based on the detected objects and their positions.
+
+## Robotic Manipulation (Niryo Ned2)
 
 The AI module is integrated in real time with the robotic arm:
 
@@ -86,7 +96,7 @@ The video showcases:
 - Robot movement
 - Full perception-to-action cycle
 
-🛠️ Technologies Used
+ ## Technologies Used
 
 - Python
 - OpenCV
@@ -94,7 +104,7 @@ The video showcases:
 - Robotic control APIs
 - Autonomous decision algorithms
 
-🚀 Results
+## Results
 
 A fully autonomous intelligent system that unifies:
 
@@ -103,12 +113,12 @@ A fully autonomous intelligent system that unifies:
 - Robotic manipulation
 - Into one seamless, intelligent automation pipeline.
 
-📈 Future Improvements
+## Future Improvements
 
 - Reinforcement learning-based strategy optimization
 - Faster inference optimization
 - Industrial-grade deployment
 
-📬 Contact
+## Contact
 
 If you'd like to collaborate or discuss the project, feel free to reach out.
