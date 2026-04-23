@@ -1,4 +1,4 @@
-## AI-Driven Autonomous Robotic Manipulation System
+## Computer Vision System for Object Detection & Robotic Interaction
 
 An end-to-end intelligent automation pipeline that combines AI-powered computer vision, autonomous decision-making, and real-time robotic control using a collaborative robotic arm from Niryo Ned2.
 <p align="center">
